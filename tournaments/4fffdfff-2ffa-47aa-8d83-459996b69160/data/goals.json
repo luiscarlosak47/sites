@@ -1,10 +1,10 @@
 {
   "_id": "goals",
   "_doc": {
-    "player": "68bba39a3ea20124bd13a418",
-    "match": "68d6e65f7716db3fb69576dd",
-    "teamName": "Istmina",
-    "playerName": "Augusto bueno zapata"
+    "player": "68bdc13708131aec0fd0c3c8",
+    "match": "68b9199a3d2ea2f2352648d2",
+    "teamName": "Medio San Juan",
+    "playerName": "Yeison collazos"
   },
-  "updatedAt": "2025-09-26T23:55:36.605Z"
+  "updatedAt": "2025-09-26T23:58:11.720Z"
 }
