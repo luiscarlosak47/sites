@@ -1,12 +1,14 @@
 {
   "_id": "goals",
   "_doc": {
-    "player": "68bf28689163e443b6bcc942",
-    "match": "68b9b9b680c69a2c2641c02f",
-    "teamName": "Condoto",
-    "playerName": "Yanier Lopez",
-    "playerPicture": "api/image/?id=ZXlKbGJtZHBibVVpT2lKbklpd2laQ0k2SW14MWFYTmpZWEpzYjNOb2RYSjBZV1J2SWl3aVppSTZJbWx0WVdkbGN5OXdiR0Y1WlhKcGJXRm5aVFk0WW1ZeU9EWTRPVEUyTTJVME5ETmlObUpqWXprME1pSXNJblI1Y0dVaU9pSndibWNpZlE9PQ==&engine=g",
+    "player": "68bb89e26018cedf315c4645",
+    "match": "68b9bc1f40e5e5a9a1230b56",
+    "teamName": "Novita FC",
+    "playerName": "Davinsons Moreno Aguirre",
+    "playerPicture": "api/image/?id=ZXlKbGJtZHBibVVpT2lKbklpd2laQ0k2SW14MWFYTmpZWEpzYjNOb2RYSjBZV1J2SWl3aVppSTZJbWx0WVdkbGN5OXdiR0Y1WlhKcGJXRm5aVFk0WW1JNE9XVXlOakF4T0dObFpHWXpNVFZqTkRZME5TSXNJblI1Y0dVaU9pSndibWNpZlE9PQ==&engine=g",
+    "teamUUID": "5bc4f1be-80fd-4013-82be-598e012001ca",
+    "matchUUID": "170e09a1-3704-403b-8302-bf167e4b5f08",
     "score": {}
   },
-  "updatedAt": "2025-09-27T00:08:59.091Z"
+  "updatedAt": "2025-09-27T01:18:15.419Z"
 }
