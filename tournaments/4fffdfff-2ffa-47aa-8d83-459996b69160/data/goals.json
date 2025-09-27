@@ -1,39 +1,12 @@
 {
   "_id": "goals",
   "_doc": {
-    "player": "68bba39a3ea20124bd13a418",
-    "match": "68b9bc1f40e5e5a9a1230b56",
-    "teamName": "Istmina",
-    "playerName": "Augusto bueno zapata",
-    "playerPicture": "api/image/?id=ZXlKbGJtZHBibVVpT2lKbklpd2laQ0k2SW14MWFYTmpZWEpzYjNOb2RYSjBZV1J2SWl3aVppSTZJbWx0WVdkbGN5OXdiR0Y1WlhKcGJXRm5aVFk0WW1KaE16bGhNMlZoTWpBeE1qUmlaREV6WVRReE9DSXNJblI1Y0dVaU9pSndibWNpZlE9PQ==&engine=g",
-    "score": {
-      "success": true,
-      "message": "matches_updated",
-      "data": {
-        "_id": "68b9bc1f40e5e5a9a1230b56",
-        "date": "2025-09-04T00:00:00.000Z",
-        "time": "20:00",
-        "team1": "68b7f140da9dddaa7d766e95",
-        "team2": "68b886544276249c4e133040",
-        "details": "The%20beginin",
-        "user": {
-          "id": "66774cc6545c5daa133111c2",
-          "name": "Luis Carlos Hurtado"
-        },
-        "status": "off",
-        "tournament": "68b78451f98a71e8f1ae0480",
-        "tournamentUUID": "4fffdfff-2ffa-47aa-8d83-459996b69160",
-        "uuid": "170e09a1-3704-403b-8302-bf167e4b5f08",
-        "createdAt": "2025-09-04T16:19:43.275Z",
-        "updatedAt": "2025-09-27T00:02:20.371Z",
-        "__v": 0,
-        "score": {
-          "68b7f140da9dddaa7d766e95": 5,
-          "68b886544276249c4e133040": 2
-        },
-        "winnerTeam": "68b7f140da9dddaa7d766e95"
-      }
-    }
+    "player": "68bf28689163e443b6bcc942",
+    "match": "68b9b9b680c69a2c2641c02f",
+    "teamName": "Condoto",
+    "playerName": "Yanier Lopez",
+    "playerPicture": "api/image/?id=ZXlKbGJtZHBibVVpT2lKbklpd2laQ0k2SW14MWFYTmpZWEpzYjNOb2RYSjBZV1J2SWl3aVppSTZJbWx0WVdkbGN5OXdiR0Y1WlhKcGJXRm5aVFk0WW1ZeU9EWTRPVEUyTTJVME5ETmlObUpqWXprME1pSXNJblI1Y0dVaU9pSndibWNpZlE9PQ==&engine=g",
+    "score": {}
   },
-  "updatedAt": "2025-09-27T00:02:20.651Z"
+  "updatedAt": "2025-09-27T00:08:59.091Z"
 }
