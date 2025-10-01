@@ -2,13 +2,13 @@
   "_id": "goals",
   "_doc": {
     "player": "68bb89e26018cedf315c4645",
-    "match": "68b9bc1f40e5e5a9a1230b56",
+    "match": "68b8c14d56158dcf14261ae4",
     "teamName": "Novita FC",
     "playerName": "Davinsons Moreno Aguirre",
     "playerPicture": "api/image/?id=ZXlKbGJtZHBibVVpT2lKbklpd2laQ0k2SW14MWFYTmpZWEpzYjNOb2RYSjBZV1J2SWl3aVppSTZJbWx0WVdkbGN5OXdiR0Y1WlhKcGJXRm5aVFk0WW1JNE9XVXlOakF4T0dObFpHWXpNVFZqTkRZME5TSXNJblI1Y0dVaU9pSndibWNpZlE9PQ==&engine=g",
     "teamUUID": "5bc4f1be-80fd-4013-82be-598e012001ca",
-    "matchUUID": "170e09a1-3704-403b-8302-bf167e4b5f08",
+    "matchUUID": "41d0d4b2-6bbd-4cdc-ac74-583f4294afdb",
     "score": {}
   },
-  "updatedAt": "2025-09-27T01:18:15.419Z"
+  "updatedAt": "2025-10-01T05:54:44.469Z"
 }
