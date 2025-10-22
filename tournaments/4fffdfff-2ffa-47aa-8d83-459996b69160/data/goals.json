@@ -1,14 +1,14 @@
 {
   "_id": "goals",
   "_doc": {
-    "player": "68bf28689163e443b6bcc942",
-    "match": "68d588244056e9c3722572f3",
-    "teamName": "Condoto",
-    "playerName": "Yanier Lopez",
-    "playerPicture": "api/image/?id=ZXlKbGJtZHBibVVpT2lKbklpd2laQ0k2SW14MWFYTmpZWEpzYjNOb2RYSjBZV1J2SWl3aVppSTZJbWx0WVdkbGN5OXdiR0Y1WlhKcGJXRm5aVFk0WW1ZeU9EWTRPVEUyTTJVME5ETmlObUpqWXprME1pSXNJblI1Y0dVaU9pSndibWNpZlE9PQ==&engine=g",
-    "teamUUID": "5bc4f1be-80fd-4013-82be-598e012001ca",
-    "matchUUID": "844a484b-06cb-421d-967a-1371fa8ac33e",
+    "player": "68bdc18f08131aec0fd0c406",
+    "match": "68f958de45cbf90232653d1c",
+    "teamName": "Quibdó",
+    "playerName": "Mario bedoya",
+    "playerPicture": "api/image/?id=ZXlKbGJtZHBibVVpT2lKbklpd2laQ0k2SW14MWFYTmpZWEpzYjNOb2RYSjBZV1J2SWl3aVppSTZJbWx0WVdkbGN5OXdiR0Y1WlhKcGJXRm5aVFk0WW1Sak1UaG1NRGd4TXpGaFpXTXdabVF3WXpRd05pSXNJblI1Y0dVaU9pSndibWNpZlE9PQ==&engine=g",
+    "teamUUID": "94cce39e-7b3a-46a5-9338-4ea19ff1cc3c",
+    "matchUUID": "f6c46aba-c714-4bd8-bd0d-f4e5fc70202a",
     "score": {}
   },
-  "updatedAt": "2025-10-03T00:04:48.211Z"
+  "updatedAt": "2025-10-22T22:52:55.982Z"
 }
